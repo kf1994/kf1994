@@ -16,20 +16,16 @@ class DataEngineer:
         self.location = "33.549907\xc2\xb0 N, 73.006242\xc2\xb0 W"
         self.blog = "https://bytesik.com/"
         self.knowledge_base = [
-            "Software Enginnering",
             "Machine Learning",
+            "Data Engineering",
+            "Software Engineering",
             "Deep Learning"
         ]
-        self.knowledge_base.insert(0, "Data Engineering")
 
     def say_hi(self):
-        print(
-            """Hello my friend, thanks for dropping by!
-
+        print("""Hello my friend, thanks for dropping by!
 This is {name}, I live in {location}. I work as a {role} and recently I am focusing on {focus} for my personal growth.
-
 I have wide interests, but most of them are {knowledge_base}.
-
 I write down tips and lecture notes on my personal tech blog, which can be found here: {blog}""".format(
                 name=self.name,
                 location=self.location,
@@ -43,6 +39,7 @@ I write down tips and lecture notes on my personal tech blog, which can be found
 
 me = DataEngineer()
 me.say_hi()
+
 
 ```
 

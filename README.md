@@ -9,7 +9,7 @@
 # -*- coding: utf-8 -*-
 
 
-class DataEngineer:
+class BackendEngineer:
     def __init__(self):
         self.name = "Khurram Farooq"
         self.role = "Backend Engineer"
@@ -37,7 +37,7 @@ I write down tips and lecture notes on my personal tech blog, which can be found
         )
 
 
-me = DataEngineer()
+me = BackendEngineer()
 me.say_hi()
 
 

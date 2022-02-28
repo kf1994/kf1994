@@ -72,6 +72,7 @@ me.say_hi()
 ![](https://img.shields.io/badge/Code-Django-informational?style=flat&logo=Django&logoColor=white&color=092e20)
 ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=C++&logoColor=white&color=00599c)
 ![](https://img.shields.io/badge/Code-Webpack-informational?style=flat&logo=webpack&logoColor=white&color=8dd6f9)
+![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=316ce6)
 
 ### 💼 Where i am currently working at/as
 - [Heuristify: CTO](https://heuristify.io) 💼

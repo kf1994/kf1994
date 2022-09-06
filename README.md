@@ -46,6 +46,7 @@ me.say_hi()
 ## 🔧 Technologies & Tools
 
 ![](https://img.shields.io/badge/Code-Nodejs-informational?style=flat&logo=Node.js&logoColor=white&color=339933)
+![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=Go&logoColor=white&color=00a7d0)
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=white)
 ![](https://img.shields.io/badge/Editor-PyCharm-informational?style=flat&logo=pycharm&logoColor=white&color=000000)
 ![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=007acc)
@@ -75,7 +76,7 @@ me.say_hi()
 ![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=316ce6)
 
 ### 💼 Where i am currently working at/as
-- [RNS Solutions: Team Lead/Full Stack Developer](https://rnssol.com) 💼
+- [GenesisLab: Team Lead/Full Stack Developer](https://genesislab.com) 💼
 - [FScOnline: Chief Editor, Developer and Founder](https://fsconline.info) ✒
 - [UptoAndroid: Founder, Editor in Chief and Developer](https://uptoandroid.com)☕
 - [Open World: Freelance](https://bytesik.com)
